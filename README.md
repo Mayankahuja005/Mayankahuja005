@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Web+Developer;DSA+in+C%2B%2B;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+AIML;Learning+Web+Development;Learning+DSA+in+C%2B%2B" />
 </p>
 
 ---
