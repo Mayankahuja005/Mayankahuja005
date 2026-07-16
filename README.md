@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Video_Editing-purple?style=for-the-badge" />
 
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +52,8 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 
-
+<br/>
+<img src="https://img.shields.io/badge/Video_Editing-purple?style=for-the-badge" />
 </p>
 
 ---
