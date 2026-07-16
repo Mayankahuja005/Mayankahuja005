@@ -30,19 +30,21 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<br/>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <br/>
-
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Video_Editing-purple?style=for-the-badge" />
+
 
 </p>
 
