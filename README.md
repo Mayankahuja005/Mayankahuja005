@@ -32,6 +32,7 @@
 
 <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+
 <br/>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
@@ -44,6 +45,13 @@
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/Video_Editing-purple?style=for-the-badge" />
+
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 
 
 </p>
