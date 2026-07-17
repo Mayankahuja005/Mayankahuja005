@@ -77,11 +77,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mayankahuja005&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
+    height="170"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayankahuja005&show_icons=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankahuja005&theme=tokyonight" height="160"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=Mayankahuja005&theme=github-dark-blue&hide_border=true&border_radius=15"
+    height="170"
+  />
 </p>
 
 ---
@@ -89,7 +93,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&theme=github-compact&hide_border=true&area=true&radius=16" alt="GitHub Activity Graph"/>
 </p>
 
 ---
