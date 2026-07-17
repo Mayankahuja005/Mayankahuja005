@@ -77,9 +77,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankahuja005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&theme=react-dark&hide_border=true" />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=Mayankahuja005&theme=tokyonight&hide_border=true" height="170"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayankahuja005&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -103,7 +105,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayankahuja005&label=%F0%9F%91%80+PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mayankahuja005&label=PROFILE%20VISITORS&color=00d9ff&style=for-the-badge" alt="Profile Visitors"/>
 </p>
 
 ---
