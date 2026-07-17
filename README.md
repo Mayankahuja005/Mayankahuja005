@@ -77,7 +77,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Mayankahuja005" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayankahuja005&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayankahuja005&theme=tokyonight" width="49%" />
 </p>
 
 ---
