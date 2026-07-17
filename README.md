@@ -77,11 +77,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayankahuja005&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayankahuja005&theme=github_dark" />
 </p>
 
 ---
