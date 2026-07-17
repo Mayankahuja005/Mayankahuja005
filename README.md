@@ -77,15 +77,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mayankahuja005&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankahuja005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=Mayankahuja005&theme=github-dark-blue&hide_border=true&border_radius=15"
-    height="170"
-  />
+  <img src="https://streak-stats.demolab.com?user=Mayankahuja005&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -93,7 +87,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&theme=github-compact&hide_border=true&area=true&radius=16" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankahuja005&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -109,7 +103,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mayankahuja005&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mayankahuja005&label=%F0%9F%91%80+PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
