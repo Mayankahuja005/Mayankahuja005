@@ -106,3 +106,17 @@
 </p>
 
 ---
+
+## ✍️ My go-to Quote 
+
+<p align="center">
+  <i>"The expert in anything was once a beginner who never gave up."</i>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for Visiting My Profile! ✨</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+</p>
